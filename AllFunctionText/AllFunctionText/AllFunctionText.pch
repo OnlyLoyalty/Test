@@ -1,0 +1,29 @@
+//
+//  AllFunctionText.pch
+//  AllFunctionText
+//
+//  Created by sakura on 2020/3/2.
+//  Copyright © 2020 sakura. All rights reserved.
+//
+
+#ifndef AllFunctionText_pch
+#define AllFunctionText_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+//宏定义实现
+#import "Hong.h"
+#import "BaseViewController.h"
+
+#import "UIImageView+WebCache.h"
+#import "NSString+HYAES128.h"
+#import "HYUnit.h"
+#import "AFHTTPSessionManager.h"
+#import "HYAFNRequestMethodV2.h"
+#import "UIView+Toast.h"
+#import "UIView+FrameAdditions.h"
+#import "UIColor+Hex.h"
+#import <MJExtension.h>
+
+#endif /* AllFunctionText_pch */
